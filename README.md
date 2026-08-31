@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
