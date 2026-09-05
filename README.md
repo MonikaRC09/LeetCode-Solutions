@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1907-count-salary-categories) |
