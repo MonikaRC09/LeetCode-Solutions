@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
