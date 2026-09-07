@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1211-queries-quality-and-percentage) |
+| [1667-fix-names-in-a-table](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1729-find-followers-count) |
