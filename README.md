@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
