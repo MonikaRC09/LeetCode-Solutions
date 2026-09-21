@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1211-queries-quality-and-percentage) |
+| [1517-find-users-with-valid-e-mails](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/MonikaRC09/LeetCode-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
